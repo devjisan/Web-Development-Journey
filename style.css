@@ -1,0 +1,8 @@
+.bro{
+    border: 1px solid purple;
+    border-radius: 20%;
+    margin: 1px;
+    
+    width: 30%;
+    display: inline-block;
+}
